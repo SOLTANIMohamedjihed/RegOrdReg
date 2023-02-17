@@ -34,6 +34,8 @@ LGLIK.LAS <-FT1CvLas$loglik
 BSTLMDRid <- FT1CvRid$bestLambdaIndex
 BSTLMDLas <- FT1CvLas$bestLambdaIndex
 
+#predict()
+
 
 
 
